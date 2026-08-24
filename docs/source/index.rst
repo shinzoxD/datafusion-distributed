@@ -98,6 +98,7 @@ side of the screen for the answer.
    learn/01-concepts
    learn/02-how-a-distributed-plan-is-built
    learn/03-how-adaptive-query-execution-works
+   learn/04-how-dynamic-filtering-works
 
 .. toctree::
    :maxdepth: 1

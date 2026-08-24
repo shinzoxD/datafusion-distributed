@@ -27,7 +27,9 @@ Key terminology:
 ![concepts.png](../_static/images/concepts.png)
 
 You'll see these concepts mentioned extensively across the documentation and the
-code itself.
+code itself. Scans may also print `predicate=DynamicFilter [ empty ]`; that is
+a DataFusion runtime filter, not a distributed-planning node. See
+[How Dynamic Filtering Works](04-how-dynamic-filtering-works.md).
 
 # Public API
 
